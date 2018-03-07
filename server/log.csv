@@ -1,0 +1,8 @@
+Agent,Time,Method,Resource,Version,Status
+
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML  like Gecko) Chrome/64.0.3282.186 Safari/537.36,2018-03-02T16:06:33.343Z,GET,/logs,HTTP/1.1,200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML  like Gecko) Chrome/64.0.3282.186 Safari/537.36,2018-03-02T16:06:36.065Z,GET,/logs,HTTP/1.1,200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML  like Gecko) Chrome/64.0.3282.186 Safari/537.36,2018-03-02T16:06:37.819Z,GET,/logs,HTTP/1.1,200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML  like Gecko) Chrome/64.0.3282.186 Safari/537.36,2018-03-02T16:06:39.700Z,GET,/logs,HTTP/1.1,200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML  like Gecko) Chrome/64.0.3282.186 Safari/537.36,2018-03-02T16:06:42.601Z,GET,/,HTTP/1.1,200
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML  like Gecko) Chrome/64.0.3282.186 Safari/537.36,2018-03-02T16:06:49.207Z,GET,/logs,HTTP/1.1,200

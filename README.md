@@ -1,0 +1,1 @@
+This one was very first logger!
